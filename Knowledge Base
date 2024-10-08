@@ -1,0 +1,50 @@
+Bulai = f
+a = Daun berwarna klorosis
+b = Mengalami pertumbuhan terhambat
+c = Warna putih seperti tepung di permukaan atas dan bawah daun yang klorosis
+d = Daun melengkung dan memutar
+e = Pembentukan tongkol terganggu
+
+a, b = c
+b, c = d
+d = e
+c, e = f
+
+Hawar = l
+e = Pembentukan tongkol terganggu
+g = Daun yang terkena terlihat layu
+h = Beberapa bintik kecil bersatu membentuk bintik yang lebih besar
+i = Bintik coklat muda memanjang berbentuk seperti gulungan atau perahu
+j = Bintik coklat berbentuk elips
+k = Daun terlihat kering
+
+e, g = k
+h, i = j 
+g, j = l
+
+Karat daun = q
+k = Daun terlihat kering
+m = Bintik-bintik kecil berwarna coklat atau kuning pada permukaan daun.
+n = Bintik-bintik merah pada tulang daun tengah.
+o = Terdapat benang-benang yang berbentuk tidak teratur, berwarna putih kemudian berubah menjadi coklat.
+p = Muncul bubuk seperti tepung coklat kekuningan.
+
+a, b = m
+h, i = m
+m = p
+n = p
+o = m
+g = k
+k = q
+
+Terbakar = w
+r = Pembengkakan pada tongkol.
+s = Terdapat jamur berwarna putih hingga hitam pada biji.
+t = Biji membengkak.
+u = Kelenjar terbentuk pada biji.
+v = Kelobot terbuka dan muncul banyak jamur berwarna putih hingga hitam, terdapat lubang kecil di daun.
+
+r, s = t
+t = u
+s, u =v
+v = w
